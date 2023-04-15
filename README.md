@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chicuongdx2001@gmail.com**
 
-- 📄 Know about my experiences [https://my-resume-chicuongdx.vercel.app/](https://my-resume-chicuongdx.vercel.app/)
+- 📄 Know about my experiences [https://chicuongdx-portfolio.vercel.app/](https://chicuongdx-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
