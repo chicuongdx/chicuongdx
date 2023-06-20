@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chicuongdx2001@gmail.com**
 
-- 📄 Know about my experiences [https://chicuongdx-portfolio.vercel.app/](https://chicuongdx-portfolio.vercel.app/)
+- 📄 I have interesting about chatbot, search engine and question answering. You can see about one my own project about question answering open domain in [here](https://github.com/chicuongdx/question_answering-ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
