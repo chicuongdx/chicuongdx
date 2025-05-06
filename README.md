@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chicuongdx&label=Profile%20views&color=0e75b6&style=flat" alt="chicuongdx" /> </p>
 
-- 🔭 I’m currently studying at **Information and Technology in VietNam**
-
 - 🌱 I’m currently learning **Computer Vision, Nature Language Processing**
 
 - 📫 How to reach me **chicuongdx2001@gmail.com**
